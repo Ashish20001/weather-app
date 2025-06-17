@@ -3,7 +3,7 @@
 
 A weather forecast app built with **Django (Python)** on the backend and a **modern glassmorphism UI** using **HTML, CSS, and JavaScript** on the frontend.
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Ashish20001/weather-app/blob/main/Screenshot%202025-06-17%20134548.png)
 
 
 ---
